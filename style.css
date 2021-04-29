@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    margin-bottom: 50px;
+    color: rgb(28, 6, 49);
+}
+
+ .container{
+     justify-content: center;
+     align-items: center;
+     margin-top: 100px;
+     margin: 60px;
+ }
+
+ .container .row{
+     align-items: center;
+     justify-content: space-between;
+ }
+
